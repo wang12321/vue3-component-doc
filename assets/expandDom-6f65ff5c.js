@@ -1,0 +1,1 @@
+import{d as e,h as t}from"./vue.esm-bundler-26e88939.js";const r=e({name:"expandDom",props:{render:Function,item:{type:Object,default:()=>{}}},render(){return this.render(t,this.item)}});export{r as default};
